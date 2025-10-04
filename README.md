@@ -16,12 +16,12 @@ I enjoy working with **Python, SQL (PostgreSQL), Power BI, and Jupyter Notebooks
 ## 🔹 Projects
 Here are some of my featured projects (click to explore):
 
-- 📊 [Software Performance Prediction with Regression](./software-performance-regression)  
-- 💄 [Cosmetics Brand Web Scraping (Khanoomi)](./cosmetics-scraping-khanoomi)  
-- 🏦 [Bank Melli Data Analysis](./bank-melli-data-analysis)  
 - 🛒 [FMCG Market Analysis in Iran](./fmcg-market-analysis)  
+- 💄 [Cosmetics Brand Web Scraping (Khanoomi)](./cosmetics-scraping-khanoomi)
+- 👥 [Customer CRM Data Analysis](./customer-crm-data-analysis)   
 - 🌍 [Regional Welfare Dashboard (Middle East)](./regional-welfare-dashboard)  
-- 👥 [Customer CRM Data Analysis](./customer-crm-data-analysis)
+- 🏦 [Bank Melli Data Analysis](./bank-melli-data-analysis) 
+- 📊 [Software Performance Prediction with Regression](./software-performance-regression) 
 
 ---
 
