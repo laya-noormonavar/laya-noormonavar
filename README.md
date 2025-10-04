@@ -5,11 +5,10 @@ I enjoy working with **Python, SQL (PostgreSQL), Power BI, and Jupyter Notebooks
 
 ---
 
-## 🔹 Skills & Tools
-- **Programming:** Python (Pandas, NumPy, Scikit-learn, BeautifulSoup)
-- **Databases:** PostgreSQL, SQL
-- **Visualization:** Power BI, Matplotlib, Seaborn
-- **Data Wrangling:** ETL, Data Cleaning, Web Scraping
+## 🔹 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 
 ---
 
