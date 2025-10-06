@@ -41,7 +41,8 @@ Performed data cleaning and analysis of banking data for insights.
 
 ### 📊 Software Performance Prediction
 [![Software Project](./software-performance-regression/preview.gif)](./software-performance-regression)  
-Predict software performance using Python and scikit-learn. 
+Predict software performance using Python and scikit-learn.
+
 ---
 
 ## 📈 GitHub Stats
