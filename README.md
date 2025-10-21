@@ -2,7 +2,6 @@
 
 I'm a **Data Analyst** passionate about transitioning into **Data Science**.  
 I enjoy working with **Python, SQL (PostgreSQL), Power BI, and Jupyter Notebooks** to solve real-world data problems.  
-
 ---
 
 ## 🔹 Skills & Tools
